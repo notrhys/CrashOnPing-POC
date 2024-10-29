@@ -1,0 +1,6 @@
+name: CrashOnPing
+main: me.rhys.plugin.CrashPlugin
+version: 1.0
+description: POC exploiting the clients server pinger
+depend:
+  - packetevents
